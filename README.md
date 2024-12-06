@@ -1,14 +1,14 @@
-# IpMap
+# ICH-MAP
 ### A simple Ip Locator Tool 
   <a href="https://github.com/ichry0">
     <img src="Screenshot_2024-12-06-21-05-42-393_com.termux-edit.jpg" alt="Github Badge"/>
   </a>
 
-### Author - [Sajid Ibn Nayeem](https://github.com/SajidIbnNayeem)
+### Author - [RY](https://github.com/ichry0)
 # Installation in Kali Linux
 
 ```
-git clone https://github.com/SajidIbnNayeem/IpMap.git
+git clone https://github.com/ICHRY0/ICH-MAP.git
 cd IpMap
 Python3 Ipmap.py
 ```
@@ -46,11 +46,11 @@ Python Ipmap.p
     <img src=" Screenshot_2024-12-06-21-05-13-847_com.termux-edit.jpg" alt="Github Badge"/>
   </a>
   
-   <a href="https://www.instagram.com/sajid_ibn_nayeem?igsh=MXdnNmttb292MnFuaQ==">
+   <a href="https://www.instagram.com/ichry0">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
    
-   <a href="https://twitter.com/Sajid_nayeem_">
+   <a href="https://twitter.com/ichry0">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
