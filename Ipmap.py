@@ -44,12 +44,11 @@ II::::::IIC:::::CCCCCCCC::::CHH::::::H     H::::::HH                 M::::::M   
 I::::::::I CC:::::::::::::::CH:::::::H     H:::::::H                 M::::::M               M::::::M  A:::::A               A:::::A  P::::::::P          
 I::::::::I   CCC::::::::::::CH:::::::H     H:::::::H                 M::::::M               M::::::M A:::::A                 A:::::A P::::::::P          
 IIIIIIIIII      CCCCCCCCCCCCCHHHHHHHHH     HHHHHHHHH                 MMMMMMMM               MMMMMMMMAAAAAAA                   AAAAAAAPPPPPPPPPP          
-     IG : ICHRY0  GITHUB : ICHRY0                                                                                                                                  
-                                                                                                                               RY & RAJA BHAIYA                                                 
+   
+               """ + self.G + """  IG : ICHRY0  GITHUB : ICHRY0                                                                                                                                  
+                                                                                                                                     """ + self.G + """      RY & RAJA BHAIYA                                                 
                                                                                                                                                          
-                                                                                                                                                         
-                                                                                                                                                         
-                
+                                                                                                                                                                                                                                                                                                                                  
              """ + self.G + """    𝑺𝒊𝒎𝒑𝒍𝒆 𝑰𝑷 𝑨𝒅𝒅𝒓𝒆𝒔𝒔 𝒍𝒐𝒄𝒂𝒕𝒐𝒓
         
         """ + self.R + """>>""" + self.Y + """----""" + self.CY + """ Author - ICHRY0""" + self.Y + """----""" + self.R + """<<""")
