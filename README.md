@@ -1,6 +1,6 @@
 # IpMap
 ### A simple Ip Locator Tool 
-![ipmap](https://github.com/user-attachments/assets/dbc47ec8-adbb-4301-bfcd-38fe31fe83e6)
+  <a href="Screenshot_2024-12-06-21-04-57-053_com.termux-edit.jpg">)
 
 ### Author - [Sajid Ibn Nayeem](https://github.com/SajidIbnNayeem)
 # Installation in Kali Linux
