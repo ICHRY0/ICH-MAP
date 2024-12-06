@@ -17,8 +17,8 @@ Python3 Ipmap.py
 ```
 pkg install python
 pkg install git
-git clone https://github.com/SajidIbnNayeem/IpMap.git
-cd IpMap
+git clone https://github.com/ICHRY0/ICH-MAP.git
+cd ICH-MAP
 Python Ipmap.p
 ```
 # Features
@@ -35,7 +35,9 @@ Python Ipmap.p
 # Screenshots
 <li>Kali Linux</li>
 
-![ipmap](https://github.com/user-attachments/assets/0543f8ae-ca02-4fd4-ace7-5a1d7039af7d)
+<a href="https://github.com/ichry0">
+    <img src="Screenshot_2024-12-06-21-05-13-847_com.termux-edit.jpg" alt="TOOL SCREEN SHOT"/>
+  </a>
 
   
 ### Connect with me:
