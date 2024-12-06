@@ -40,8 +40,8 @@ Python Ipmap.p
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/SajidIbnNayeem">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  <a href="https://github.com/ichry0">
+    <img src=" Screenshot_2024-12-06-21-05-13-847_com.termux-edit.jpg" alt="Github Badge"/>
   </a>
   
    <a href="https://www.instagram.com/sajid_ibn_nayeem?igsh=MXdnNmttb292MnFuaQ==">
