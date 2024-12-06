@@ -1,8 +1,8 @@
 # Ipmap
 
-# Author - sajid ibn nayeem
+# Author - RY
 
-# github - https://github.com/SajidIbnNayeem
+# github - https://github.com/ICHRY0
 
 
 
@@ -26,15 +26,33 @@ class IPAddressLocator:
         os.system('clear')
         print(self.R + """
           
-                    ____     __  ___        
-                   /  _/__  /  |/  /__ ____ 
-                  _/ // _ \/ /|_/ / _ `/ _ \ 
-                 /___/ .__/_/  /_/\_,_/ .__/
-                    /_/     V1.0     /_/    
+                                                                                                                                                         
+                                                                                                                                                         
+IIIIIIIIII      CCCCCCCCCCCCCHHHHHHHHH     HHHHHHHHH                 MMMMMMMM               MMMMMMMM               AAA               PPPPPPPPPPPPPPPPP   
+I::::::::I   CCC::::::::::::CH:::::::H     H:::::::H                 M:::::::M             M:::::::M              A:::A              P::::::::::::::::P  
+I::::::::I CC:::::::::::::::CH:::::::H     H:::::::H                 M::::::::M           M::::::::M             A:::::A             P::::::PPPPPP:::::P 
+II::::::IIC:::::CCCCCCCC::::CHH::::::H     H::::::HH                 M:::::::::M         M:::::::::M            A:::::::A            PP:::::P     P:::::P
+  I::::I C:::::C       CCCCCC  H:::::H     H:::::H                   M::::::::::M       M::::::::::M           A:::::::::A             P::::P     P:::::P
+  I::::IC:::::C                H:::::H     H:::::H                   M:::::::::::M     M:::::::::::M          A:::::A:::::A            P::::P     P:::::P
+  I::::IC:::::C                H::::::HHHHH::::::H                   M:::::::M::::M   M::::M:::::::M         A:::::A A:::::A           P::::PPPPPP:::::P 
+  I::::IC:::::C                H:::::::::::::::::H   --------------- M::::::M M::::M M::::M M::::::M        A:::::A   A:::::A          P:::::::::::::PP  
+  I::::IC:::::C                H:::::::::::::::::H   -:::::::::::::- M::::::M  M::::M::::M  M::::::M       A:::::A     A:::::A         P::::PPPPPPPPP    
+  I::::IC:::::C                H::::::HHHHH::::::H   --------------- M::::::M   M:::::::M   M::::::M      A:::::AAAAAAAAA:::::A        P::::P            
+  I::::IC:::::C                H:::::H     H:::::H                   M::::::M    M:::::M    M::::::M     A:::::::::::::::::::::A       P::::P            
+  I::::I C:::::C       CCCCCC  H:::::H     H:::::H                   M::::::M     MMMMM     M::::::M    A:::::AAAAAAAAAAAAA:::::A      P::::P            
+II::::::IIC:::::CCCCCCCC::::CHH::::::H     H::::::HH                 M::::::M               M::::::M   A:::::A             A:::::A   PP::::::PP          
+I::::::::I CC:::::::::::::::CH:::::::H     H:::::::H                 M::::::M               M::::::M  A:::::A               A:::::A  P::::::::P          
+I::::::::I   CCC::::::::::::CH:::::::H     H:::::::H                 M::::::M               M::::::M A:::::A                 A:::::A P::::::::P          
+IIIIIIIIII      CCCCCCCCCCCCCHHHHHHHHH     HHHHHHHHH                 MMMMMMMM               MMMMMMMMAAAAAAA                   AAAAAAAPPPPPPPPPP          
+     IG : ICHRY0  GITHUB : ICHRY0                                                                                                                                  
+                                                                                                                               RY & RAJA BHAIYA                                                 
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
                 
              """ + self.G + """    𝑺𝒊𝒎𝒑𝒍𝒆 𝑰𝑷 𝑨𝒅𝒅𝒓𝒆𝒔𝒔 𝒍𝒐𝒄𝒂𝒕𝒐𝒓
         
-        """ + self.R + """>>""" + self.Y + """----""" + self.CY + """ Author - Sajid Ibn Nayeem """ + self.Y + """----""" + self.R + """<<""")
+        """ + self.R + """>>""" + self.Y + """----""" + self.CY + """ Author - ICHRY0""" + self.Y + """----""" + self.R + """<<""")
 
     def m3(self):
         try:
