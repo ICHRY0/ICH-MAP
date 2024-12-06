@@ -10,7 +10,7 @@
 ```
 git clone https://github.com/ICHRY0/ICH-MAP.git
 cd IpMap
-Python3 Ipmap.py
+Python3 ICH-MAP
 ```
 # Installation in Termux
 
@@ -19,7 +19,7 @@ pkg install python
 pkg install git
 git clone https://github.com/ICHRY0/ICH-MAP.git
 cd ICH-MAP
-Python Ipmap.p
+Python ICH-MAP
 ```
 # Features
 <p>Get your address info</p>
